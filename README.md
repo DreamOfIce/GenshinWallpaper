@@ -3,11 +3,12 @@
 ![Stars](https://img.shields.io/github/stars/DreamOfIce/GenshinWallpaper) ![下载次数](https://img.shields.io/github/downloads/DreamOfIce/GenshinWallpaper/total) ![提交历史](https://img.shields.io/github/commit-activity/y/DreamOfIce/GenshinWallpaper) ![最新提交](https://img.shields.io/github/last-commit/DreamOfIce/GenshinWallpaper) ![jsDelivr](https://img.shields.io/jsdelivr/gh/hy/DreamOfIce/GenshinWallpaper)
 
 ![一周年](https://cdn.jsdelivr.net/gh/DreamOfIce/GenshinWallpaper@master/character/原神1周年.png)
+
 [TOC]
 
 本仓库收录了官方发布的精选壁纸
 所有的图片都是人工翻出来的,更新可能会有些不及时,请多多谅解 ヾ(≧▽≦\*)o
-欢迎PR和补充
+只收录了横屏的壁纸,手机的请前往[来源](#%E6%9D%A5%E6%BA%90)自行下载
 喜欢的话麻烦在Github上给个Star吧q(≧▽≦q)\
 [Github(国外)](https://github.com/DreamOfIce/GenshinWallpaper) | [Coding(国内)](https://dreamofice.coding.net/public/public/GenshinWallpaper/git/files)
 
@@ -19,7 +20,7 @@
 
 ## 来源
 
-*   `原神` 的度盘分享 https://<span>pan.baidu.com/s/1XBXdAWnl_qeVtQArFh57Ug</span>(米不蓝(￣y▽,￣)╭ ) (vr3n)
+*   `原神` 的度盘分享 https://<span>pan.baidu.com/s/1XBXdAWnl_qeVtQArFh57Ug</span>(米不蓝(￣y▽,￣)╭ ) (提取码:vr3n)
 
 ## web引用
 
